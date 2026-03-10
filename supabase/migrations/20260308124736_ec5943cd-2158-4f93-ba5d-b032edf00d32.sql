@@ -1,0 +1,1 @@
+ALTER TABLE public.code_goals ADD COLUMN progress integer NOT NULL DEFAULT 0;
